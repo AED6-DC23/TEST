@@ -1,6 +1,5 @@
 from random import randint
 import time
-import pygame
 
 class Dot:
     def __init__(self, x, y):
